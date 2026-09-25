@@ -15,11 +15,11 @@ data class Student(
 
     companion object {
         val DEFAULT = Student(
-            id = "22505120005",
-            name = "Nguyễn Văn An",
-            className = "22CT111",
-            email = "an.nv@ute.udn.vn",
-            gpa = 3.75
+            id = "2415141122125",
+            name = "Mai Tuấn Anh",
+            className = "126TLTTD01",
+            email = "2415141122125@sv.ute.udn.vn",
+            gpa = 3.1
         )
     }
 }
